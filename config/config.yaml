@@ -1,5 +1,5 @@
 training_pipeline_config:
-  pipeline_name: cement
+  pipeline_name: cement_strength
   artifact_dir: artifact
 
 data_ingestion_config:
