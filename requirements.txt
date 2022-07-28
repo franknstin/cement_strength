@@ -3,3 +3,6 @@ pandas
 numpy
 gunicorn
 PyYAML
+sklearn
+evidently
+dill
